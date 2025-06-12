@@ -51,6 +51,9 @@
 <a href="https://github.com/Asriel0727/RWD-Game-Web">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asriel0727&repo=RWD-Game-Web" width="350"/>
 </a>
+<a href="https://github.com/Asriel0727/xiangqi-battle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asriel0727&repo=xiangqi-battle" width="350"/>
+</a>
 
 ## Contact
 
