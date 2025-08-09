@@ -2,7 +2,7 @@
 
 
 ## 🛠️ Skill
-- 🎮 Game Developer at [Fun2 Studio](https://fun2studio.com/)
+- Experienced Game Developer, with 2+ years in Unity-based game projects at [Fun2 Studio](https://fun2studio.com/)
 - Good at game development, cross-platform applications, teamwork and version control
 - Familiar with agile development processes, with good communication and problem-solving skills
 - Love learning new technologies and continuously improving oneself
